@@ -31,7 +31,7 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-  <a href="https://linkedin.com/in/alex-ferro-745794198/" target="_blank">
+  <a href="https://linkedin.com/in/alexfferro/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-alexfferro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/alexfferro" target="_blank">
