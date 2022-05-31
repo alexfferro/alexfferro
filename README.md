@@ -1,16 +1,40 @@
-### Hi there 👋
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/alexfferro/71a7eaac02ca2cf6e126681a0afdc755/raw/c8a5b25ee54541f051282797ea1b21edfce265d7/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alex Ferreira </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfferro&color=yellow" alt="Profile views" /> </p>
 
-<!--
-**alexfferro/alexfferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Beginner Web Developer & focused on learning
 
-Here are some ideas to get you started:
+- 🔭 I’m currently majoring in computer science [UFAL](https://ufal.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=alexfferro&show_icons=true&theme=vision-friendly-dark" alt="alexfferro's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfferro&layout=compact&theme=vision-friendly-dark" alt="alexfferro's most languages"/>
+</p>
+
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+  <a href="https://linkedin.com/in/alex-ferro-745794198/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-alexfferro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/alexfferro" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-alexfferro-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
