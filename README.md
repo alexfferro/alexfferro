@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/alexfferro/71a7eaac02ca2cf6e126681a0afdc755/raw/c8a5b25ee54541f051282797ea1b21edfce265d7/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alex Ferreira </h1>
+<h1 align="left">Hi, I'm Alex Ferreira </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfferro&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Beginner Web Developer & focused on learning
