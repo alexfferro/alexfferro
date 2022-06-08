@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently majoring in computer science [UFAL](https://ufal.br)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS**
 
 ## 🛠 &nbsp;Tech Stack
 
