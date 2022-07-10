@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/alexfferro/71a7eaac02ca2cf6e126681a0afdc755/raw/c8a5b25ee54541f051282797ea1b21edfce265d7/githubcard.svg"/>
+<img align="right" height="450em" src="https://raw.githubusercontent.com/gist/alexfferro/71a7eaac02ca2cf6e126681a0afdc755/raw/c8a5b25ee54541f051282797ea1b21edfce265d7/githubcard.svg"/>
 <h1 align="left">Hi, I'm Alex Ferreira </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfferro&color=yellow" alt="Profile views" /> </p>
 
@@ -28,7 +28,7 @@
 
 <br><br>
 
-## :purple_heart: &nbsp;Social Links
+## :heart: &nbsp;Social Links
 
 <p align="left" style="background:yellow">
   <a href="https://linkedin.com/in/alexfferro/" target="_blank">
