@@ -5,7 +5,7 @@
 <h1 align="left">Hi, I'm Alex Ferreira </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfferro&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Beginner Web Developer & focused on learning
+- 🔥 Beginner Developer & focused on learning
 
 - 🔭 I’m currently majoring in computer science [UFAL](https://ufal.br)
 
@@ -18,16 +18,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!--
-<br><br>
 
  ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=alexfferro&show_icons=true&theme=vision-friendly-dark" alt="alexfferro's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfferro&layout=compact&theme=vision-friendly-dark" alt="alexfferro's most languages"/>
-<br><br>
-</p> -->
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=alexfferro&show_icons=true&theme=vision-friendly-dark" alt="alexfferro's stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfferro&layout=compact&theme=vision-friendly-dark" alt="alexfferro's most languages"/>
+</p>
+
 ## :heart: &nbsp;Social Links
 
 <p align="left" style="background:yellow">
