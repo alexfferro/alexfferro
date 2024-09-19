@@ -11,7 +11,7 @@
 
 - 🌱 I’m always looking for new challenges and learning opportunities in the tech world.
 
-- 📫 Feel free to reach out to me at [your email or other contact method].
+- 📫 Feel free to reach out to me at alex.ferreira.ferro@gmail.com.
 
 - 🔗 Check out my projects and contributions below!
 
