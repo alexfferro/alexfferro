@@ -3,13 +3,17 @@
 -->
 
 <h1 align="left">Hi, I'm Alex Ferreira </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfferro&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexfferro&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Beginner Developer & focused on learning
+- 👋 Hi! I'm Alex Ferreira da Silva, a 27-year-old software developer.
 
-- 🔭 I’m currently majoring in computer science [UFAL](https://ufal.br)
+- 🎓 I graduated in Computer Science from the Federal University of Alagoas (UFAL) and work with technologies such as Python, JavaScript, HTML, CSS, Node.js, and React.
 
-- 💬 Learning **JavaScript, HTML, CSS, NodeJS, React**
+- 🌱 I’m always looking for new challenges and learning opportunities in the tech world.
+
+- 📫 Feel free to reach out to me at [your email or other contact method].
+
+- 🔗 Check out my projects and contributions below!
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -17,7 +21,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
  ## ⚙️ &nbsp;GitHub Analytics
 
