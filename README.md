@@ -35,8 +35,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfferro&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfferro&layout=compact&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexfferro&show_icons=true&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexfferro&layout=compact&theme=vision-friendly-dark" />
 </div>
 
 ---
